@@ -34,8 +34,8 @@ part4/
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
-cd part4
+git clone https://github.com/rashiku/part4-d2c-FastAPI.git
+cd part4-d2c-FastAPI
 ```
 
 ### 2. Create a virtual environment
