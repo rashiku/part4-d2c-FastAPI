@@ -1,5 +1,10 @@
 # D2C Customer Churn — Part 4: FastAPI Churn Scoring Service
 
+## Student Details
+
+Student Name: Mohammed Rashiku B C  
+Student ID: iitp_aiml_25061023
+
 ## Overview
 
 This repository contains Part 4 of the D2C Customer Churn Capstone.  
