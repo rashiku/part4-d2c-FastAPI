@@ -47,7 +47,7 @@ cd part4-d2c-FastAPI
 
 ```bash
 python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
+venv\Scripts\activate
 ```
 
 ### 3. Install dependencies
